@@ -185,7 +185,7 @@
 "../../../../../../Unreal Projects/DangerVeryClose/Content/Font/Inversionz_Unboxed_Font.uasset" 184
 "../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/LevelSelect/LevelDescription.uasset" 185
 "../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/LevelSelect/LevelSelectButton.uasset" 186
-"../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/dvc-mock.uasset" 187
+"../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/MainMenu-Resources/dvc-mock.uasset" 187
 "../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/Credits_Widget.uasset" 188
 "../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/MainMenu-Resources/CreditsButton.uasset" 189
 "../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/MainMenu-Resources/DVC-Logo.uasset" 190
@@ -582,5 +582,9 @@
 "../../../../../../Unreal Projects/DangerVeryClose/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 581
 "../../../../../../Unreal Projects/DangerVeryClose/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 582
 "../../../../../../Unreal Projects/DangerVeryClose/Content/Levels/Level_2.umap" 583
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 584
-"../../../Engine/Content/Maps/Entry.umap" 585
+"../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/MainMenu_PC.uasset" 584
+"../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/MainmenuGameMode.uasset" 585
+"../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/Level_MainMenu_BuiltData.uasset" 586
+"../../../../../../Unreal Projects/DangerVeryClose/Content/Main_Menu/Level_MainMenu.umap" 587
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 588
+"../../../Engine/Content/Maps/Entry.umap" 589
